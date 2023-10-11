@@ -29,3 +29,7 @@ The signal should appear like a photoplethysmograph (PPG) signal. If not, try ad
 In the Python Notebook file, 'Run All' In the Neural Network section, you will find 'clf = MLP...' Adjust the number of hidden layers and activation type as needed. You can find information about the library [here](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html). The 'Simpan NN' section (means: Save Neural Network) indicated by the '#' symbol is currently inactive. Above it, there is a table of training results. If the results are not satisfactory, try adjusting the test-train data ratio, the number of neurons and layers, the activation type, and train repeatedly for better results. When you feel the results are good, activate 'Simpan NN' and then run that section (change the name 'ann_005' to match the name you want to save for training). The file should be saved in the same folder. Don't forget to deactivate 'Simpan NN' with '#' to prevent overwriting new training results.
 
 To display the saved training results, go to the 'Muat NN' section (means: Load Neural Network) and change 'ann_004' to the name of the training file you specified. Run only this cell.
+<p align="center">
+  <img width="300" src="https://github.com/dhiteory/glucometer/assets/23611802/54e2f384-25ee-4321-beaa-29bbdea1df8a">
+  <br>Example of Directory
+</p>
