@@ -33,3 +33,5 @@ To display the saved training results, go to the 'Muat NN' section (means: Load 
   <img width="300" src="https://github.com/dhiteory/glucometer/assets/23611802/54e2f384-25ee-4321-beaa-29bbdea1df8a">
   <br>Example of Directory
 </p>
+
+Paper: [here](https://drive.google.com/file/d/1fAv79x-yco53Fl0xkjKefa9m5fhQosRW/view?usp=sharing)
